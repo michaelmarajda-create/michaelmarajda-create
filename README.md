@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**michaelmarajda-create/michaelmarajda-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael Marajda from Bethlehem, Palestine.
 
-Here are some ideas to get you started:
+After more than 10 years of experience in customer care, tourism, and travel operations, I decided to start a new journey in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently enrolled in the Full Stack Development Program at Axsos Academy, where I am learning:
+- HTML, CSS, JavaScript
+- Front-End & Back-End Development
+- Problem Solving & Software Development
+
+My professional background helped me build strong communication, organization, and customer-focused skills, which I now combine with technology and development.
+
+## Languages
+- Arabic 
+- English 
+- Hebrew 
+- Russian 
