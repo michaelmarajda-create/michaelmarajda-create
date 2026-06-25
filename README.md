@@ -29,3 +29,41 @@ My name is Michael Marajda and I'm a Travel Consultant, Senior Customer Care Rep
 * **English:** Fluent
 * **Hebrew:** Advanced
 * **Russian:** Beginner
+
+## 🛠️ Skills & Technologies
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Programming Languages** | Python, JavaScript, HTML5, CSS3 |
+| **Computer Science** | Algorithms, Data Structures, Problem Solving (LeetCode / HackerRank) |
+| **Technical Operations** | GDS Systems (Amadeus, Sabre, WorldSpan), CRM Ticketing, Tech Support |
+| **Soft Skills** | Exceptional Customer Service, Advanced Negotiation, International Coordination |
+
+---
+
+
+## 🎓 Education & Certifications
+
+* **Full-Stack Developer Certificate** | Axsos Academy (2026)
+  * *An intensive 20-week, 620+ coding hour bootcamp covering Web Fundamentals, Python, Data Structures, Algorithms, and Agile group projects.*
+* **Tourism and Travel Expert Certificate** | Ministry of Tourism and Antiquities (2019)
+* **Foundation in Travel and Tourism (Certified)** | IATA Canada (2014)
+* **Diploma in Travel Agency Management** | Bethlehem University (2014)
+
+---
+
+## 💼 Professional Highlights
+
+With over a decade of professional experience, I bring a mature work ethic to engineering teams:
+
+* **E-Teacher Group & Platinum Tours** (2019 - Present): Managing critical tech support, global schedules, and high-stakes international flight coordination.
+* **Abeer Tours & Travel** (2014 - 2021): Mastered complex Global Distribution Systems (GDS) and handled backend reservation databases.
+* **Event Coordination** (2015 - 2020): Spearheaded international event logistics with the Imperial Orthodox Palestinian Society.
+
+---
+
+Axsos Academy | Full-Stack Developer Certificate | Ramallah , Palestine  ( 2026)
+
+●	A part-time immersive training program in web fundamentals, Python, algorithms, and data structures. The Bootcamp includes 20 weeks of programming as the following: +620 coding hours in total, 50 hours pre-boot camp, 120 hrs web fundamentals, 240 hrs Python, 60 hours of algorithms and data structures, 60 hours of 2 complete projects (Solo & Group). All stacks include group activities and leet-code and HackerRank. 
+
+
